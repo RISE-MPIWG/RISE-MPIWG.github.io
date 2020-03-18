@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: home
 ---
 ## Welcome to the RISE DH2020 Workshop Page
 
