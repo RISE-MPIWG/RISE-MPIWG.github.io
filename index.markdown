@@ -4,3 +4,10 @@
 
 layout: home
 ---
+## Welcome to the RISE DH2020 Workshop Page
+
+### Agenda
+
+### Syllabus
+
+### Handouts
