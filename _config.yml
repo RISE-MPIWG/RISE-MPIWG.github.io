@@ -23,9 +23,7 @@ email: pbelouin@mpiwg-berlin.mpg.de
 description: >- # this means to ignore newlines until "baseurl:"
   RISE DH2020 Workshop Syllabus, Handouts & Information
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://rise-mpiwg.github.io/" # the base hostname & protocol for your site, e.g. 
 
 # Build settings
 theme: minima
