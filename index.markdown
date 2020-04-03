@@ -5,7 +5,7 @@
 layout: home
 title: Home
 ---
-![rise logo](http://avatars1.githubusercontent.com/u/28725063 =100x20)
+![rise logo](http://avatars1.githubusercontent.com/u/28725063 =100x)
 ## Welcome to the RISE DH2020 Workshop Page
 
 This four-hour tutorial will first provide a general introduction to the RISE project and to the SHINE API. 
