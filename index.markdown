@@ -5,6 +5,7 @@
 layout: home
 title: Home
 ---
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ## Welcome to the RISE DH2020 Workshop Page
 
 This four-hour tutorial will first provide a general introduction to the RISE project and to the SHINE API. 
