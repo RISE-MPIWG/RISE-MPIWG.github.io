@@ -45,7 +45,7 @@ This Vue.js widget allows the [Docusky](https://docusky.org.tw/DocuSky/ds-01.hom
 
 ### [RISE API JS Library](https://github.com/RISE-MPIWG/rise_js_client) ###
 
-This library is designed to allow developers to interact easily with APIs compatible with SHINE, a restful API protocol that allows clients to browse, filter and access a large number of open and licence-protected structured text resources from a wide variety of providers. Please visit https://rise.mpiwg-berlin.mpg.de for more information about SHINE and the RISE project. For a more detailed documentation of this project, please visit https://rise.mpiwg-berlin.mpg.de/jslib.
+This library is designed to allow developers to interact easily with APIs compatible with SHINE, a restful API protocol that allows clients to browse, filter and access a large number of open and licence-protected structured text resources from a wide variety of providers. Please visit [https://rise.mpiwg-berlin.mpg.de](https://rise.mpiwg-berlin.mpg.de) for more information about SHINE and the RISE project. For a more detailed documentation of this project, please visit [https://rise.mpiwg-berlin.mpg.de/jslib](https://rise.mpiwg-berlin.mpg.de/jslib).
 
 ### [RISE Python Script](https://github.com/RISE-MPIWG/hylg)
 
