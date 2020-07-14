@@ -37,7 +37,7 @@ This application allows you to maintain collections, resources, sections and con
 
 ### [React SHINE Module](https://github.com/RISE-MPIWG/react-shine-api) ###
 
-This is a React.js component that allows users to browse the [SHINE API](https://rise.mpiwg-berlin.mpg.de/collections). It allows selection of files, and passes the selected files through to your app. This component is currently used on Pelagios' [Recogito Platform](https://recogito.pelagios.org/)
+This is a React.js component that allows users to browse the [SHINE API](https://rise.mpiwg-berlin.mpg.de/collections). It allows selection of files, and passes the selected files through to your app. This component is currently used on Pelagios' [Recogito Platform](https://recogito.pelagios.org/).
 
 ### [Docusky Widget](https://github.com/RISE-MPIWG/docusky_widget) ###
 
