@@ -3,14 +3,22 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title: RISE & SHINE: Tool Developers Workshop
 ---
 
-## RISE & SHINE for Research Tool Developers
+# Who are we?
+The [RISE project team](https://www.mpiwg-berlin.mpg.de/research/projects/rise-and-shine-research-infrastructure-study-eurasia) at the Max Planck Institute for the History of Science (MPIWG) consists of:
+* [Shih-Pei Chen](mailto:schen@mpiwg-berlin.mpg.de), project leader
+* [Pascal Belouin](mailto:pbelouin@mpiwg-berlin.mpg.de), IT architect
+* [Sean Wang](mailto:swang@mpiwg-berlin.mpg.de), project manager
+* Brent Ho, former project co-leader
 
-For most research tools, users have to manually prepare texts into a specified format and then upload them for analysis. What if this is not feasible, due to licensing restrictions or technical barriers? 
+# What are RISE & SHINE?
+Textual resources still overwhelmingly exist in digital silos, which makes their interoperability in digital research tools challenging. RISE and SHINE are our technical solution to fill this gap between resources and tools. We defined an API (**SHINE**) and designed its related infrastructure (**RISE** and software toolkits) for resource discovery and exchange.
 
-RISE-JS-Client is a software package for research tool developers. Once implemented, users can now search for and select RISE-linked resources to be analyzed, right within the research tool’s native UI. This allows research tool developers to tap into a large network of textual resources and make the research workflow more seamless for their user bases. We will present RISE-JS-Client, one reference implementation with the tool Recogito,  and work on how to integrate this package into individual software solutions.
+This virtual workshop, initially planned as an in-person [tutorial](https://dh2020.adho.org/wp-content/uploads/2020/07/403_RISEandSHINEIntroductiontoanAPIbasedeinfrastructureforinteroperabletextualresourcesandresearchtools.html) at the DH2020 conference, will introduce how tool developers can take advantage of SHINE as an interoperable standard for textual data exchange in order to (1) produce a seamless UX for tool users to load texts for analysis, and (2) expand the quantity of texts automatically available for analysis.
+
+MPIWG's [event page](https://www.mpiwg-berlin.mpg.de/event/rise-shine-tool-developers-workshop) provides additional information specific to tool developers, while the [RISE homepage](https://rise.mpiwg-berlin.mpg.de/) includes additional information for the general audience.
 
 ## Programme
 The Workshop will take place according to the following timetable:
@@ -41,4 +49,3 @@ This library is designed to allow developers to interact easily with APIs compat
 
 ### [RISE Python Script](https://github.com/RISE-MPIWG/hylg)
 This Python script allows one to pull text from RISE, and can be easily modified for your needs.
-
