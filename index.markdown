@@ -43,14 +43,13 @@ We will try to replicate the in-person tutorial format as much as possible over 
 ## Resources
 To demonstrate the benefits of working with RISE & SHINE and to encourage third-party development of SHINE-compatible technical solutions, we have made a suite of open-source software toolkits that can be adopted and adapted. They are available on the RISE project's [Github page](https://github.com/RISE-MPIWG).
 
-Specifically for tool developers,
+Specifically, tool developers can use the following toolkits to implement SHINE:
 
 ### [React SHINE Module](https://github.com/RISE-MPIWG/react-shine-api) ###
 This is a React.js component that allows users to browse the [SHINE API](https://rise.mpiwg-berlin.mpg.de/collections). It allows selection of files, and passes the selected files through to your app. This component is currently used on Pelagios' [Recogito Platform](https://recogito.pelagios.org/).
 
-
 ### [RISE API JS Library](https://github.com/RISE-MPIWG/rise_js_client) ###
-This library is designed to allow developers to interact easily with APIs compatible with SHINE, a restful API protocol that allows clients to browse, filter and access a large number of open and licence-protected structured text resources from a wide variety of providers. Please visit [https://rise.mpiwg-berlin.mpg.de](https://rise.mpiwg-berlin.mpg.de) for more information about SHINE and the RISE project. For a more detailed documentation of this project, please visit [https://rise.mpiwg-berlin.mpg.de/jslib](https://rise.mpiwg-berlin.mpg.de/jslib).
+This library is designed to allow developers to interact easily with APIs compatible with SHINE, a restful API protocol that allows clients to browse, filter and access a large number of open and licence-protected structured text resources from a wide variety of providers. For a more detailed documentation of this project, please visit [https://rise.mpiwg-berlin.mpg.de/jslib](https://rise.mpiwg-berlin.mpg.de/jslib).
 
-### [RISE Python Script](https://github.com/RISE-MPIWG/hylg)
+### [RISE Python Script](https://github.com/RISE-MPIWG/hylg) ###
 This Python script allows one to pull text from RISE, and can be easily modified for your needs.
