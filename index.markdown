@@ -2,18 +2,20 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: Workshop
+layout: home
 title: RISE & SHINE: Tool Developers Workshop
 ---
 
-# Who are we?
+# Workshop
+
+## Who are we?
 The [RISE project team](https://www.mpiwg-berlin.mpg.de/research/projects/rise-and-shine-research-infrastructure-study-eurasia) at the Max Planck Institute for the History of Science (MPIWG) consists of:
 * [Shih-Pei Chen](mailto:schen@mpiwg-berlin.mpg.de), project leader
 * [Pascal Belouin](mailto:pbelouin@mpiwg-berlin.mpg.de), IT architect
 * [Sean Wang](mailto:swang@mpiwg-berlin.mpg.de), project manager
 * Brent Ho, former project co-leader
 
-# What are RISE & SHINE?
+## What are RISE & SHINE?
 Textual resources still overwhelmingly exist in digital silos, which makes their interoperability in digital research tools challenging. RISE and SHINE are our technical solution to fill this gap between resources and tools. We defined an API (**SHINE**) and designed its related infrastructure (**RISE** and software toolkits) for resource discovery and exchange.
 
 This virtual workshop, initially planned as an in-person [tutorial](https://dh2020.adho.org/wp-content/uploads/2020/07/403_RISEandSHINEIntroductiontoanAPIbasedeinfrastructureforinteroperabletextualresourcesandresearchtools.html) at the DH2020 conference, will introduce how tool developers can take advantage of SHINE as an interoperable standard for textual data exchange in order to (1) produce a seamless UX for tool users to load texts for analysis, and (2) expand the quantity of texts automatically available for analysis.
