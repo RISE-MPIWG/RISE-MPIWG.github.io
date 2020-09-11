@@ -5,6 +5,7 @@
 layout: home
 title: RISE & SHINE: Tool Developers Workshop
 ---
+# Workshop
 
 ## Who are we?
 The [RISE project team](https://www.mpiwg-berlin.mpg.de/research/projects/rise-and-shine-research-infrastructure-study-eurasia) at the Max Planck Institute for the History of Science (MPIWG) consists of:
@@ -42,7 +43,7 @@ We will try to replicate the in-person tutorial format as much as possible over 
 ## Resources
 To demonstrate the benefits of working with RISE & SHINE and to encourage third-party development of SHINE-compatible technical solutions, we have made a suite of open-source software toolkits that can be adopted and adapted. They are available on the RISE project's [Github page](https://github.com/RISE-MPIWG).
 
-Specifically for tool developers, 
+Specifically for tool developers,
 
 ### [React SHINE Module](https://github.com/RISE-MPIWG/react-shine-api) ###
 This is a React.js component that allows users to browse the [SHINE API](https://rise.mpiwg-berlin.mpg.de/collections). It allows selection of files, and passes the selected files through to your app. This component is currently used on Pelagios' [Recogito Platform](https://recogito.pelagios.org/).
