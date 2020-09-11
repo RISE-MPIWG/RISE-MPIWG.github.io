@@ -6,8 +6,6 @@ layout: home
 title: RISE & SHINE: Tool Developers Workshop
 ---
 
-# Workshop
-
 ## Who are we?
 The [RISE project team](https://www.mpiwg-berlin.mpg.de/research/projects/rise-and-shine-research-infrastructure-study-eurasia) at the Max Planck Institute for the History of Science (MPIWG) consists of:
 * [Shih-Pei Chen](mailto:schen@mpiwg-berlin.mpg.de), project leader
@@ -23,28 +21,32 @@ This virtual workshop, initially planned as an in-person [tutorial](https://dh20
 MPIWG's [event page](https://www.mpiwg-berlin.mpg.de/event/rise-shine-tool-developers-workshop) provides additional information specific to tool developers, while the [RISE homepage](https://rise.mpiwg-berlin.mpg.de/) includes additional information for the general audience.
 
 ## Programme
-The Workshop will take place according to the following timetable:
+This workshop will take place on Wednesday, 23 September 2020, at 14:00 CET over Zoom. *Pre-registration is required.*
 
-### Introduction to RISE and SHINE, as well as overview of future developments (10mn)
-Presentation of RISE and SHINE and of its various components.
-### Short presentation of the RISE & SHINE Resource Provider Reference Implementation (5mn)
-The tutor will introduce how RISE can be used by owners of textual resources to make their resources available through RISE & SHINE.
-### RISE and SHINE for Research Tool Developers(30mn)
-In this session, the tutor will show how research tools developers can consume resources from the RISE infrastructure of from Resource Providers that make their resources available in a SHINE-compatible format, either by building their own client, by using the RISE javascript library or React.js module, or using the SHINE client python script.
-#### Wrap-up and individual consultations(10mn)
+During the workshop, we will cover the following topics:
 
+### Introduction
+We will briefly introduce the history of the RISE project, including how different stakeholders in the digital humanities ecosystem could use it for their benefits.
+
+### Technical design
+We will introduce the general technical design of RISE and SHINE, focusing specifically on the components relevant to tool developers. In particular, we will cover several different ways in which tool developers could implement [SHINE](https://rise.mpiwg-berlin.mpg.de/pages/doc_for_developers#tabs) within their own tools to ingest either texts provided by RISE-linked resource providers, or as a way to de-couple the tools and their associated texts.
+
+During this portion, we will also have three developers to share their experience of implementing SHINE or SHINE-compatible software toolkits within their own tools. They are:
+* Brent Ho, chief developer of [MARKUS](https://dh.chinese-empires.eu/markus/beta/) and RISE's former project co-leader
+* [Joey Hung](http://joeyhung.info/), technical lead of the [Chinese Buddhist Electronic Text Association](https://www.cbeta.org/)
+* [Rainer Simon](https://rsimon.github.io/), technical lead of [Recogito](https://recogito.pelagios.org/)
+
+### Interactive Q&A and technical consultation
+We will try to replicate the in-person tutorial format as much as possible over Zoom to answer questions and discuss technical implementations.
 
 ## Resources
-To demonstrate the benefits of working with RISE and to encourage third-party development of SHINE -compatible technical solutions, a suite of open-source toolkits is available for others to adopt and adapt for their own purposes. They can be found on the [RISE Project's Github page](https://github.com/RISE-MPIWG).
+To demonstrate the benefits of working with RISE & SHINE and to encourage third-party development of SHINE-compatible technical solutions, we have made a suite of open-source software toolkits that can be adopted and adapted. They are available on the RISE project's [Github page](https://github.com/RISE-MPIWG).
 
-### [RISE Resource Provider Application](https://github.com/RISE-MPIWG/rise_rp) ###
-This application allows you to maintain collections, resources, sections and content units and make them available through a SHINE-compatible api. It relies on docker for development as well as for deployment.
+Specifically for tool developers, 
 
 ### [React SHINE Module](https://github.com/RISE-MPIWG/react-shine-api) ###
 This is a React.js component that allows users to browse the [SHINE API](https://rise.mpiwg-berlin.mpg.de/collections). It allows selection of files, and passes the selected files through to your app. This component is currently used on Pelagios' [Recogito Platform](https://recogito.pelagios.org/).
 
-### [Docusky Widget](https://github.com/RISE-MPIWG/docusky_widget) ###
-This Vue.js widget allows the [Docusky](https://docusky.org.tw/DocuSky/ds-01.home.html) platform to pull resources from RISE.
 
 ### [RISE API JS Library](https://github.com/RISE-MPIWG/rise_js_client) ###
 This library is designed to allow developers to interact easily with APIs compatible with SHINE, a restful API protocol that allows clients to browse, filter and access a large number of open and licence-protected structured text resources from a wide variety of providers. Please visit [https://rise.mpiwg-berlin.mpg.de](https://rise.mpiwg-berlin.mpg.de) for more information about SHINE and the RISE project. For a more detailed documentation of this project, please visit [https://rise.mpiwg-berlin.mpg.de/jslib](https://rise.mpiwg-berlin.mpg.de/jslib).
