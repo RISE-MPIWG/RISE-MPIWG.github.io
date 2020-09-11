@@ -52,4 +52,4 @@ This is a React.js component that allows users to browse the [SHINE API](https:/
 This library is designed to allow developers to interact easily with APIs compatible with SHINE, a restful API protocol that allows clients to browse, filter and access a large number of open and licence-protected structured text resources from a wide variety of providers. For a more detailed documentation of this project, please visit [https://rise.mpiwg-berlin.mpg.de/jslib](https://rise.mpiwg-berlin.mpg.de/jslib).
 
 ### [RISE Python Script](https://github.com/RISE-MPIWG/hylg) ###
-This Python script allows one to pull text from RISE, and can be easily modified for your needs.
+This Python script allows one to pull text from RISE, and can be easily modified for your needs. An interactive version of this script is available on[Google Colab](https://colab.research.google.com/drive/14RBnC7BVGd3zlt-h9YuynVuuu428bKDN?usp=sharing)
