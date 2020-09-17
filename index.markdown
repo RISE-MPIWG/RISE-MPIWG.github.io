@@ -5,7 +5,7 @@
 layout: home
 title: RISE & SHINE: Tool Developers Workshop
 ---
-*Please pre-register [here](https://www.mpiwg-berlin.mpg.de/event/rise-shine-tool-developers-workshop)!*
+**Please pre-register for the Workshop [here](https://www.mpiwg-berlin.mpg.de/event/rise-shine-tool-developers-workshop)!**
 
 # Workshop
 
@@ -24,7 +24,7 @@ This virtual workshop, initially planned as an in-person [tutorial](https://dh20
 MPIWG's [event page](https://www.mpiwg-berlin.mpg.de/event/rise-shine-tool-developers-workshop) provides additional information specific to tool developers, while the [RISE homepage](https://rise.mpiwg-berlin.mpg.de/) includes additional information for the general audience.
 
 ## Programme
-This workshop will take place on Wednesday, 23 September 2020, at 14:00 CET over Zoom. *Pre-registration is required.*
+This workshop will take place on Wednesday, 23 September 2020, at 14:00 CET over Zoom. *Please pre-register [here](https://www.mpiwg-berlin.mpg.de/event/rise-shine-tool-developers-workshop)!*
 
 During the workshop, we will cover the following topics:
 
