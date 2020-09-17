@@ -5,6 +5,8 @@
 layout: home
 title: RISE & SHINE: Tool Developers Workshop
 ---
+*Please pre-register [here](https://www.mpiwg-berlin.mpg.de/event/rise-shine-tool-developers-workshop)!*
+
 # Workshop
 
 ## Who are we?
