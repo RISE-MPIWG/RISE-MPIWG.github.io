@@ -32,7 +32,7 @@ During the workshop, we will cover the following topics:
 We will briefly introduce the history of the RISE project, including how different stakeholders in the digital humanities ecosystem could use it for their benefits.
 
 ### Technical design
-We will introduce the general technical design of RISE and SHINE, focusing specifically on the components relevant to tool developers. In particular, we will cover several different ways in which tool developers could implement [SHINE](https://rise.mpiwg-berlin.mpg.de/pages/doc_for_developers#tabs) within their own tools to ingest either texts provided by RISE-linked resource providers, or as a way to de-couple the tools and their associated texts.
+We will introduce the general technical design of RISE and SHINE (see [preprint](https://osf.io/preprints/socarxiv/qrmg8/)), focusing specifically on the components relevant to tool developers. In particular, we will cover several different ways in which tool developers could implement the [SHINE API](https://rise.mpiwg-berlin.mpg.de/pages/doc_for_developers#tabs) within their own tools to ingest either texts provided by RISE-linked resource providers, or as a way to de-couple the tools and their associated texts.
 
 During this portion, we will also have three developers to share their experience of implementing SHINE or SHINE-compatible software toolkits within their own tools. They are:
 * [Rainer Simon](https://rsimon.github.io/), technical lead of [Recogito](https://recogito.pelagios.org/)
