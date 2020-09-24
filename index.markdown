@@ -5,8 +5,6 @@
 layout: home
 title: RISE & SHINE: Tool Developers Workshop
 ---
-**Please register for the Workshop [here](https://www.mpiwg-berlin.mpg.de/event/rise-shine-tool-developers-workshop)!**
-
 # Workshop
 
 ## Who are we?
@@ -24,7 +22,7 @@ This virtual workshop, initially planned as an in-person [tutorial](https://dh20
 MPIWG's [event page](https://www.mpiwg-berlin.mpg.de/event/rise-shine-tool-developers-workshop) provides additional information specific to tool developers, while the [RISE homepage](https://rise.mpiwg-berlin.mpg.de/) includes additional information for the general audience.
 
 ## Programme
-This workshop will take place on Wednesday, 23 September 2020, at 14:00 CET over Zoom. *Please register [here](https://www.mpiwg-berlin.mpg.de/event/rise-shine-tool-developers-workshop)!*
+This workshop will take place on Wednesday, 23 September 2020, at 14:00 CET over Zoom.
 
 During the workshop, we will cover the following topics:
 
@@ -36,8 +34,8 @@ We will introduce the general technical design of RISE and SHINE, focusing speci
 
 During this portion, we will also have three developers to share their experience of implementing SHINE or SHINE-compatible software toolkits within their own tools. They are:
 * [Rainer Simon](https://rsimon.github.io/), technical lead of [Recogito](https://recogito.pelagios.org/)
-* Brent Ho, chief developer of [MARKUS](https://dh.chinese-empires.eu/markus/beta/) and RISE's former project co-leader
 * [Joey Hung](http://joeyhung.info/), technical lead of the [Chinese Buddhist Electronic Text Association](https://www.cbeta.org/)
+* Brent Ho, chief developer of [MARKUS](https://dh.chinese-empires.eu/markus/) and RISE's former project co-leader
 
 ### Interactive demo
 We will try to replicate the in-person tutorial format as much as possible over Zoom to answer questions and discuss technical implementations.
@@ -57,3 +55,11 @@ This is a React.js component that allows users to browse the [SHINE API](https:/
 
 ### [Vue.js SHINE Module](https://github.com/RISE-MPIWG/docusky_widget) ###
 This is a Vue.js component that allows users to browse the [SHINE API](https://rise.mpiwg-berlin.mpg.de/collections). It allows selection of files, and passes the selected files through to your app. This module is currently used in [DocuSky](https://docusky.org.tw/DocuSky/ds-01.home.html).
+
+## Workshop slides and recording
+If you missed the workshop, don't worry! We will make the video recording available after.
+
+The three developers who shared their experience with RISE & SHINE have also provided their presentations here:
+* [Rainer Simon](https://rsimon.github.io/), [Recogito](https://recogito.pelagios.org/): [PPT](/slides/2020-09-MPIWG-Recogito.pptx)
+* [Joey Hung](http://joeyhung.info/), [CBETA](https://www.cbeta.org/): [PPT](/slides/CBETA_SHINE_10mins_v2.pptx)
+* Brent Ho, [MARKUS](https://dh.chinese-empires.eu/markus/): [PDF](/slides/MARKUS_SHINE.pdf)
