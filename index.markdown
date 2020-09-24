@@ -57,7 +57,7 @@ This is a React.js component that allows users to browse the [SHINE API](https:/
 This is a Vue.js component that allows users to browse the [SHINE API](https://rise.mpiwg-berlin.mpg.de/collections). It allows selection of files, and passes the selected files through to your app. This module is currently used in [DocuSky](https://docusky.org.tw/DocuSky/ds-01.home.html).
 
 ## Workshop slides and recording
-If you missed the workshop, don't worry! We will make the video recording available after.
+If you missed the workshop, don't worry! You can find the workshop presentation slides [here](https://doi.org/10.5281/zenodo.4047803). We will also make the video recording available shortly.
 
 The three developers who shared their experience with RISE & SHINE have also provided their presentations here:
 * [Rainer Simon](https://rsimon.github.io/), [Recogito](https://recogito.pelagios.org/): [PPT](/slides/2020-09-MPIWG-Recogito.pptx)
