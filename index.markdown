@@ -5,6 +5,8 @@
 layout: home
 title: RISE & SHINE: Tool Developers Workshop
 ---
+**ICYMI: Scroll down to watch the video replay!**
+
 # Workshop
 
 ## Who are we?
