@@ -5,7 +5,7 @@
 layout: home
 title: RISE & SHINE: Tool Developers Workshop
 ---
-**ICYMI: Scroll down to watch the video replay!**
+**ICYMI: [Here](https://doi.org/10.5281/zenodo.4047803) you can access the video replay! Also scroll down for presentation slides.**
 
 # Workshop
 
